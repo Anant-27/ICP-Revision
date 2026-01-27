@@ -1,6 +1,6 @@
 import java.util.*;
 import java.util.Stack;
-public class remove_parentheses {
+public class remove_parenthesis {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         String str=sc.nextLine();

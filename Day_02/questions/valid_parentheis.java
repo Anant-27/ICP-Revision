@@ -1,6 +1,6 @@
 import java.util.*;
 import java.util.Stack;
-public class valid_parentheses {
+public class valid_parentheis {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         String s=sc.nextLine();
